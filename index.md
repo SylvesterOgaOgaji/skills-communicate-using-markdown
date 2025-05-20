@@ -5,3 +5,7 @@
 ###### This is an `<h6>` header, which is the smallest
 
 This change is done to this file 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+The Images is so beautiful
